@@ -26,7 +26,7 @@ SECRET_KEY = 'l2y3zcwvnj35td!z8z4yq_q)=#t-z6=stjeb)msh5)*a*l*in0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','sampledomain.com']
+ALLOWED_HOSTS = ['127.0.0.1','mypetempire.herokuapp.com']
 
 
 # Application definition
